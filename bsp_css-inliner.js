@@ -1,4 +1,4 @@
-//Dient als Beispiel 
+//Dient als weiteres Beispiel 
 //schaut alle ordner in einem src-Ordner durch und wandelt den html-code in einen Inline-html-code um. 
 //schreibt dann die Dateien in den dist Ordner rein.
 
