@@ -1,6 +1,7 @@
 verwende node -installationen
 zu empfehlen ist am anfang:
 npm install -g fs 
+=>bsp.  fs (fileSystem) kann gut bearbeitet werden
 
 schreibe den code 
 
